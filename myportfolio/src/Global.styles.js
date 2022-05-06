@@ -36,6 +36,7 @@ display: flex;
 
 `;
 
+
 export const ProfileImg = styled.img.attrs({
   src: `${profileImg}`
 })`
